@@ -9,3 +9,10 @@
 ## :hammer:Funcionalidades del proyecto
 
 - `Conversión de monedas en tiempo real`: Convierte entre tres monedas preseleccionadas y dólares utilizando tasas de cambio actualizadas desde la API. <br> `Opciones de conversión flexibles`: Permite convertir desde dólares a una moneda seleccionada o desde una moneda seleccionada a dólares. <br> `Selección de monedas`: El usuario puede elegir entre tres monedas diferentes para realizar la conversión.
+
+<h2>Tecnología Utilizada </h2>
+Java 17
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/77583055?s=400" width=115><br><sub>Luis Miguel Murillo</sub>](https://github.com/luismy852)|
