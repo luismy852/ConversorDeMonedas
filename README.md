@@ -5,3 +5,7 @@
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-TERMINADO-blue)
 
  Este proyecto en Java consume una API de tasas de cambio para convertir entre diferentes monedas. Utiliza peticiones HTTP para obtener las tasas actualizadas y permite a los usuarios realizar conversiones rápidas y precisas en tiempo real.
+
+## :hammer:Funcionalidades del proyecto
+
+- `Conversión de monedas en tiempo real`: Convierte entre tres monedas preseleccionadas y dólares utilizando tasas de cambio actualizadas desde la API. <br> `Opciones de conversión flexibles`: Permite convertir desde dólares a una moneda seleccionada o desde una moneda seleccionada a dólares. <br> `Selección de monedas`: El usuario puede elegir entre tres monedas diferentes para realizar la conversión.
