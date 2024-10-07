@@ -25,12 +25,8 @@ public class LeyendoDatos {
             double tasaConversion = entrada.getValue();
             Moneda moneda = new Moneda(codigoMoneda, tasaConversion);
             lista.add(moneda);
-            System.out.println(moneda);
 
         }
-
-        System.out.println(datosMoneda);
-        System.out.println(lista.size());
 
     }
 

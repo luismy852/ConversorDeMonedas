@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se añadio el metodo main">
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/DatosMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/LeyendoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/Moneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/SolicitudApi.java" afterDir="false" />
+    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor.">
+      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/BuscarMoneda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConversorDeMonedas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMonedas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/DatosMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/DatosMoneda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/LeyendoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/LeyendoDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,12 +86,39 @@
       <option name="project" value="LOCAL" />
       <updated>1727900179518</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se crearon las clases SolicitudApi, la cual se encarga de hacer la consulta, Moneda el cual tiene los atributos que tendran las divisas y LeyendoDatos que obtendras los datos y creara los obejtos">
+      <option name="closed" value="true" />
+      <created>1728263985834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728263985834</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Se agrego la funcionalidad de convertir los datos a objetos de tipo Moneda y se añaden a una lista para poder ser accedidos despues de que se termine la funcion.">
+      <option name="closed" value="true" />
+      <created>1728272535696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728272535696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor.">
+      <option name="closed" value="true" />
+      <created>1728274179765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728274179765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se crea el projecto." />
     <MESSAGE value="Se añadio el metodo main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añadio el metodo main" />
+    <MESSAGE value="Se crearon las clases SolicitudApi, la cual se encarga de hacer la consulta, Moneda el cual tiene los atributos que tendran las divisas y LeyendoDatos que obtendras los datos y creara los obejtos" />
+    <MESSAGE value="Se agrego la funcionalidad de convertir los datos a objetos de tipo Moneda y se añaden a una lista para poder ser accedidos despues de que se termine la funcion." />
+    <MESSAGE value="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor." />
   </component>
 </project>
