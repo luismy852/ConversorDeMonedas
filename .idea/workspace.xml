@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se elimino import no utilizado">
+    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se añade el bucle llamando a  los metodos de las demas clases">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728317537761</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Se añade el bucle llamando a  los metodos de las demas clases">
+      <option name="closed" value="true" />
+      <created>1728322241162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728322241162</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value="Se agrego una clase que busca en la lista la moneda seleccionada" />
     <MESSAGE value="Se agrega clase CalcularCambioDivisa.java la cual se encarga de los calculos con sus dos funciones" />
     <MESSAGE value="Se elimino import no utilizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se elimino import no utilizado" />
+    <MESSAGE value="Se añade el bucle llamando a  los metodos de las demas clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añade el bucle llamando a  los metodos de las demas clases" />
   </component>
 </project>

@@ -94,6 +94,9 @@ public class Principal {
 
                 case 0:
                     System.out.println("Gracias por usar el programa");
+
+                default:
+                    System.out.println("Escoge una opción correcta");
             }
 
 
