@@ -1,7 +1,6 @@
 package com.proyecto.conversordemonedas.modelos;
 
 import java.util.List;
-import java.util.Objects;
 
 public class BuscarMoneda {
     public double posicion (List<Moneda> lista, String codigo){
