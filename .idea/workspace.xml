@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor.">
-      <change afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/BuscarMoneda.java" afterDir="false" />
+    <list default="true" id="a6fd6c6a-95c1-470f-9f2f-1d29df9d353d" name="Changes" comment="Se elimino import no utilizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/DatosMoneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/DatosMoneda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/LeyendoDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/proyecto/conversordemonedas/modelos/LeyendoDatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,39 @@
       <option name="project" value="LOCAL" />
       <updated>1728274179765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se actualizo el metodo para recolectar los datos de la API">
+      <option name="closed" value="true" />
+      <created>1728313697048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728313697048</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se agrego una clase que busca en la lista la moneda seleccionada">
+      <option name="closed" value="true" />
+      <created>1728313741887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728313741887</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Se agrega clase CalcularCambioDivisa.java la cual se encarga de los calculos con sus dos funciones">
+      <option name="closed" value="true" />
+      <created>1728317405953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728317405953</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Se elimino import no utilizado">
+      <option name="closed" value="true" />
+      <created>1728317537761</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728317537761</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +148,10 @@
     <MESSAGE value="Se crearon las clases SolicitudApi, la cual se encarga de hacer la consulta, Moneda el cual tiene los atributos que tendran las divisas y LeyendoDatos que obtendras los datos y creara los obejtos" />
     <MESSAGE value="Se agrego la funcionalidad de convertir los datos a objetos de tipo Moneda y se añaden a una lista para poder ser accedidos despues de que se termine la funcion." />
     <MESSAGE value="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agregan Getter y Setter, se sobrescribre el metodo toString y se agrega un contructor." />
+    <MESSAGE value="Se actualizo el metodo para recolectar los datos de la API" />
+    <MESSAGE value="Se agrego una clase que busca en la lista la moneda seleccionada" />
+    <MESSAGE value="Se agrega clase CalcularCambioDivisa.java la cual se encarga de los calculos con sus dos funciones" />
+    <MESSAGE value="Se elimino import no utilizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se elimino import no utilizado" />
   </component>
 </project>
