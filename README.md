@@ -10,6 +10,9 @@
 
 - `Conversión de monedas en tiempo real`: Convierte entre tres monedas preseleccionadas y dólares utilizando tasas de cambio actualizadas desde la API. <br> `Opciones de conversión flexibles`: Permite convertir desde dólares a una moneda seleccionada o desde una moneda seleccionada a dólares. <br> `Selección de monedas`: El usuario puede elegir entre tres monedas diferentes para realizar la conversión.
 
+![20241007_131841](https://github.com/user-attachments/assets/6a8d9506-62c4-47be-99fc-d60ceab9182b)
+
+
 <h2>Tecnología Utilizada </h2>
 Java 17
 
